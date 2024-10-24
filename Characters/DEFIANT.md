@@ -87,13 +87,7 @@ Placeholder
 Placeholder
 
 ## Background
-**Birth Date**: Monday, 1 January -20000 12:00:00 AM
-
-**Marriage Date**: Monday, 1 January -20000 12:00:00 AM
-
-**Death Date**: Monday, 1 January -20000 12:00:00 AM
-
-Placeholder
+Born within the mind of [[Chenkov]]
 
 ## Additional Details
 Placeholder
