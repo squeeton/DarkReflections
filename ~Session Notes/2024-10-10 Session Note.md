@@ -29,8 +29,8 @@ Brief session overview.
  
 ## NPCs?
  
-- [[Dabus]]
-- 
+- [[Dabu]]
+- [[Chenkov|The Inevitable]]
 - 
  
 ## Items Of Importance

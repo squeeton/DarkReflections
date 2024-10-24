@@ -16,7 +16,7 @@ Brief session overview.
 
 
 ## Locations 
-- 
+- [[Sigil]]
 - 
 - 
 

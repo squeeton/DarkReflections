@@ -15,10 +15,11 @@ next:
 RWtopicId: Topic_18
 icon: 🧑‍🤝‍🧑
 aliases:
+  - Dabus
 ---
 # Dabus
 
-Dabus are a hive mind that patrol sigil and act as the eyes and ears of the [[Lady of Pain]]
+Dabus are a hive mind that patrol [[sigil]] and act as the eyes and ears of the [[Lady of Pain]]
 
 
 
@@ -43,13 +44,12 @@ Placeholder
 Placeholder
 
 ## Organization
-**Headquarters**: Placeholder
+**Headquarters**: [[Sigil]]
 
-**Leader(s)**: Placeholder
+**Leader(s)**: [[Lady of Pain]]
 
 **Prominent Members**: Placeholder
 
-Placeholder
 
 ## Resources
 Placeholder

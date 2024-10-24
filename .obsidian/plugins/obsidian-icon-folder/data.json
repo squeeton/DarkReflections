@@ -60,9 +60,6 @@
   "NPCs/Chenkov.md": {
     "iconName": "🧑"
   },
-  "NPCs/Dabus.md": {
-    "iconName": "🧑‍🤝‍🧑"
-  },
   "~Session Notes/2024-10-10 Session Note.md": {
     "iconName": "📓"
   },
@@ -77,5 +74,11 @@
   },
   "Characters/Udo.md": {
     "iconName": "👑"
+  },
+  "~Session Notes/2024-10-24 Session Note.md": {
+    "iconName": "📓"
+  },
+  "NPCs/Dabu.md": {
+    "iconName": "🧑‍🤝‍🧑"
   }
 }

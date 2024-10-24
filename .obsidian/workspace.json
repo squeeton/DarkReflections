@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_config/templates/Template - Session Journal.md",
-                "mode": "preview",
+                "file": "NPCs/Dabu.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template - Session Journal"
+              "title": "Dabu"
             }
           }
         ]
@@ -93,17 +93,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "~Session Notes/2024-10-10 Session Note.md",
+                "file": "NPCs/Dabu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-10-10 Session Note"
+              "title": "Backlinks for Dabu"
             }
           },
           {
@@ -112,37 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "NPCs/Dabu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
-            }
-          },
-          {
-            "id": "9e47b5c41067874c",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "dedfb5749653b252",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "z_config/templates/Template - Session Journal.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Template - Session Journal"
+              "title": "Outgoing links from Dabu"
             }
           },
           {
@@ -156,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -175,27 +150,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4b3ae9692e25215",
+  "active": "795b6b7b2e2fe77e",
   "lastOpenFiles": [
+    "NPCs/Chenkov.md",
+    "NPCs/Dabu.md",
+    "NPCs/Lady of Pain.md",
     "Maps/Sigil Map.md",
+    "Locations/Sigil.md",
+    "~Session Notes/2024-10-10 Session Note.md",
+    "~Session Notes/2024-10-24 Session Note.md",
+    "z_config/templates/Template - Session Journal.md",
     "Characters/DEFIANT.md",
     "Characters/Arvul.md",
-    "~Session Notes/2024-10-10 Session Note.md",
     "z_config/token.md",
     "remote",
     "git",
-    "Locations/Sigil.md",
-    "NPCs/Lady of Pain.md",
-    "NPCs/Dabus.md",
     "Maps",
-    "z_config/templates/Template - Session Journal.md",
     "z_config/images/SIGIL MAP.jpg",
     "z_config/images/DEFIANT.png",
     "z_config/templates/Template - NPC.md",
     "Characters/Udo.md",
     "Characters/Deadeye.md",
-    "NPCs/Chenkov.md",
-    "~Session Notes/2024-10-24 Session Note.md",
     "~Session Notes/2024-10-24 Session Note1.md",
     "~Session Notes/2024-10-24 Session Note2.md",
     "z_config/templates/Template - Location.md",

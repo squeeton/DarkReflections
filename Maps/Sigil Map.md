@@ -1,5 +1,5 @@
 ```leaflet   
-id: sigil  
+id: main-city  
 image: [[SIGIL MAP.jpg]]
 height: 1000px  
 width: 100%  
