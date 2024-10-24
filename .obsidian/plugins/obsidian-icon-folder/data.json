@@ -1,0 +1,81 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "👑",
+      "🧑",
+      "🧑‍🤝‍🧑",
+      "📿",
+      "📓"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": false,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "z_config/templates/Template - Session Journal.md": {
+    "iconName": "📓"
+  },
+  "z_config/templates/Template - NPC.md": {
+    "iconName": "🧑"
+  },
+  "z_config/templates/Template - Location.md": {
+    "iconName": "🌎"
+  },
+  "z_config/templates/Template - Deity.md": {
+    "iconName": "📿"
+  },
+  "z_config/templates/Template - Group.md": {
+    "iconName": "🧑‍🤝‍🧑"
+  },
+  "z_config/templates/Template - Item.md": {
+    "iconName": "🎁"
+  },
+  "NPCs/Lady of Pain.md": {
+    "iconName": "📿"
+  },
+  "Locations/Sigil.md": {
+    "iconName": "🌎"
+  },
+  "NPCs/Chenkov.md": {
+    "iconName": "🧑"
+  },
+  "NPCs/Dabus.md": {
+    "iconName": "🧑‍🤝‍🧑"
+  },
+  "~Session Notes/2024-10-10 Session Note.md": {
+    "iconName": "📓"
+  },
+  "Characters/DEFIANT.md": {
+    "iconName": "👑"
+  },
+  "Characters/Arvul.md": {
+    "iconName": "👑"
+  },
+  "Characters/Deadeye.md": {
+    "iconName": "👑"
+  },
+  "Characters/Udo.md": {
+    "iconName": "👑"
+  }
+}
