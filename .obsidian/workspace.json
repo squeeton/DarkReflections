@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/DEFIANT.md",
-                "mode": "source",
+                "file": "z_config/templates/Template - Session Journal.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DEFIANT"
+              "title": "Template - Session Journal"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/DEFIANT.md"
+                "file": "z_config/templates/Template - Session Journal.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DEFIANT"
+              "title": "Outline of Template - Session Journal"
             }
           },
           {
@@ -177,12 +177,13 @@
   },
   "active": "e4b3ae9692e25215",
   "lastOpenFiles": [
+    "Maps/Sigil Map.md",
+    "Characters/DEFIANT.md",
     "Characters/Arvul.md",
     "~Session Notes/2024-10-10 Session Note.md",
     "z_config/token.md",
     "remote",
     "git",
-    "Maps/Sigil Map.md",
     "Locations/Sigil.md",
     "NPCs/Lady of Pain.md",
     "NPCs/Dabus.md",
@@ -192,7 +193,6 @@
     "z_config/images/DEFIANT.png",
     "z_config/templates/Template - NPC.md",
     "Characters/Udo.md",
-    "Characters/DEFIANT.md",
     "Characters/Deadeye.md",
     "NPCs/Chenkov.md",
     "~Session Notes/2024-10-24 Session Note.md",
