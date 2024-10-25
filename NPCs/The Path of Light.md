@@ -15,14 +15,20 @@ next:
 RWtopicId: Topic_18
 icon: 🧑‍🤝‍🧑
 aliases:
-  - Dabus
 ---
-# Dabus
+# The Path of Light
 
-Dabus are a hive mind that patrol [[sigil]] and act as the eyes and ears of the [[Lady of Pain]]
+Notes
+
+
+
+## Overview
+**Type**: Other
+
+**Alignment**: Chaotic Evil, Chaotic Good, Chaotic Neutral, Lawful Evil, Lawful Good, Lawful Neutral, Neutral, Neutral Evil, Neutral Good, Unaligned
 
 ### Picture
-![[Dabus-2e.webp]]
+![[ImagePlaceholder.png|Placeholder Iconography]]
 
 ## Profile
 Placeholder
@@ -37,12 +43,13 @@ Placeholder
 Placeholder
 
 ## Organization
-**Headquarters**: [[Sigil]]
+**Headquarters**: Placeholder
 
-**Leader(s)**: [[Lady of Pain]]
+**Leader(s)**: Placeholder
 
 **Prominent Members**: Placeholder
 
+Placeholder
 
 ## Resources
 Placeholder

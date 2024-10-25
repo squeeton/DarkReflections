@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🎁",
       "👑",
       "🧑",
       "🧑‍🤝‍🧑",
-      "📿",
-      "📓"
+      "📿"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -79,6 +79,15 @@
     "iconName": "📓"
   },
   "NPCs/Dabu.md": {
+    "iconName": "🧑‍🤝‍🧑"
+  },
+  "Things/Black Coin.md": {
+    "iconName": "🎁"
+  },
+  "NPCs/Justicar Ramoff.md": {
+    "iconName": "🧑"
+  },
+  "NPCs/The Path of Light.md": {
     "iconName": "🧑‍🤝‍🧑"
   }
 }
